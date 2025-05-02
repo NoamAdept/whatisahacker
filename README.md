@@ -1,6 +1,6 @@
 **whatIsaHacker**
 
-For this CTF script, I wanted to keep it mysterious, short, and without revealing how the layers work.
+For this CTF script, I wanted to keep it mysterious, short, and without revealing how the layers work. A hacker is someone who is never phased by a challenge and can figure things out no matter how difficult the challenge!
 
 
 
