@@ -14,7 +14,7 @@ A mystery wrapped in code. Can you unravel what it truly means to be a hacker?
    ```bash
    git clone (the repo-link can be found in the url)
    cd what-is-a-hacker-ctf
-````
+
 
 2. **Run the challenge**
 
